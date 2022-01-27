@@ -6,3 +6,8 @@ repo_name: Nibblecomm/awesome-unifi
 repo_url: https://github.com/Nibblecomm/awesome-unifi
 theme:
   name: material
+
+extra:
+  analytics:
+    provider: google
+    property: G-ERBMT2LVS7
