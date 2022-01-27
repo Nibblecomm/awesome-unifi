@@ -27,7 +27,9 @@ I will keep some pull requests open if I'm not sure whether those projects are a
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@rakeshmukundan](https://twitter.com/rakeshmukundan) on Twitter or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact us [@Spotipo1](https://twitter.com/Spotipo1) on Twitter or open an issue on GitHub.
+
+
 
 
 
