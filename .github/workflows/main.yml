@@ -21,10 +21,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: RUn sort.py
-      run: |
-        python sort.py
     - name: Deploy Sites
       run: |
-        make site_deploy
+        make site_build
