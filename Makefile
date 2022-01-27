@@ -13,5 +13,3 @@ site_preview: site_link
 site_build: site_link
 	mkdocs build
 
-site_deploy: site_link
-	mkdocs gh-deploy --clean
